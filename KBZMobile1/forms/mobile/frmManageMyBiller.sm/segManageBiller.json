@@ -1,0 +1,243 @@
+{
+    "@class": "com.kony.gen.viz.model.container.KVizSegment2",
+    "DNDConfig": null,
+    "_data_": [
+        {
+            "imgSegImage": {
+                "@class": "com.viz.ide.model.segment.ImageSegmentData",
+                "src": "image_1083__1_.png"
+            },
+            "lblBillerHame": {
+                "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                "text": "Home - 456789890"
+            },
+            "lblBillerNames": {
+                "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                "text": "5BB Broadbrand"
+            }
+        },
+        {
+            "imgSegImage": {
+                "@class": "com.viz.ide.model.segment.ImageSegmentData",
+                "src": "image_1083__1_.png"
+            },
+            "lblBillerHame": {
+                "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                "text": "Home - 456789890"
+            },
+            "lblBillerNames": {
+                "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                "text": "Electric Bill - Ayeyarwaddy"
+            }
+        },
+        {
+            "imgSegImage": {
+                "@class": "com.viz.ide.model.segment.ImageSegmentData",
+                "src": "image_1083__1_.png"
+            },
+            "lblBillerHame": {
+                "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                "text": "Home - 456789890"
+            },
+            "lblBillerNames": {
+                "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                "text": "Electric Bill - Mandalay"
+            }
+        },
+        {
+            "imgSegImage": {
+                "@class": "com.viz.ide.model.segment.ImageSegmentData",
+                "src": "image_1083__1_.png"
+            },
+            "lblBillerHame": {
+                "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                "text": "Home - 456789890"
+            },
+            "lblBillerNames": {
+                "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                "text": "Electric Bill - Naypyitaw"
+            }
+        },
+        {
+            "imgSegImage": {
+                "@class": "com.viz.ide.model.segment.ImageSegmentData",
+                "src": "image_1083__1_.png"
+            },
+            "lblBillerHame": {
+                "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                "text": "Telenor - 1234567890"
+            },
+            "lblBillerNames": {
+                "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                "text": "Electric Bill - Yangoon and Bago"
+            }
+        },
+        {
+            "imgSegImage": {
+                "@class": "com.viz.ide.model.segment.ImageSegmentData",
+                "src": "image_5.png"
+            },
+            "lblBillerHame": {
+                "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                "text": "Telenor - 1234567890"
+            },
+            "lblBillerNames": {
+                "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                "text": "Telenor Postpaid"
+            }
+        },
+        {
+            "imgSegImage": {
+                "@class": "com.viz.ide.model.segment.ImageSegmentData",
+                "src": "image_5.png"
+            },
+            "lblBillerHame": {
+                "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                "text": "Telenor - 1234567890"
+            },
+            "lblBillerNames": {
+                "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                "text": "Telenor Distributor"
+            }
+        },
+        {
+            "imgSegImage": {
+                "@class": "com.viz.ide.model.segment.ImageSegmentData",
+                "src": "image_5.png"
+            },
+            "lblBillerHame": {
+                "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                "text": "Telenor - 1234567890"
+            },
+            "lblBillerNames": {
+                "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                "text": "Telenor Myanmar Enterprises Collection"
+            }
+        },
+        {
+            "imgSegImage": {
+                "@class": "com.viz.ide.model.segment.ImageSegmentData",
+                "src": "image_1084.png"
+            },
+            "lblBillerHame": {
+                "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                "text": "Myinsurance-1234567890"
+            },
+            "lblBillerNames": {
+                "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                "text": "YCDC"
+            }
+        },
+        {
+            "imgSegImage": {
+                "@class": "com.viz.ide.model.segment.ImageSegmentData",
+                "src": "imagedrag.png"
+            },
+            "lblBillerHame": {
+                "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                "text": "Myinsurance-1234567890"
+            },
+            "lblBillerNames": {
+                "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                "text": "YCDC"
+            }
+        }
+    ],
+    "_height_": {
+        "type": "string",
+        "value": "100%"
+    },
+    "_indicator_": "none",
+    "_left_": {
+        "type": "string",
+        "value": "0dp"
+    },
+    "_margin_": [
+        0,
+        0,
+        0,
+        0
+    ],
+    "_orientation_": 2,
+    "_padding_": [
+        0,
+        0,
+        0,
+        0
+    ],
+    "_top_": {
+        "type": "string",
+        "value": "0dp"
+    },
+    "_width_": {
+        "type": "string",
+        "value": "100%"
+    },
+    "autogrowmode": 0,
+    "canUpdateUI": true,
+    "containerweight": 100,
+    "counter": "09",
+    "focusedindex": null,
+    "focuseditem": null,
+    "generatedtemplate": "e20e3b91209546ecb941c34782315223",
+    "groupcells": false,
+    "hasSections": false,
+    "id": "segManageBiller",
+    "info": null,
+    "ipad": {
+        "psp": {
+            "indicator": "rowselect"
+        }
+    },
+    "iphone": {
+        "psp": {
+            "indicator": "rowselect"
+        }
+    },
+    "iscustomlayout": false,
+    "isvisible": true,
+    "kuid": "i33308cca4944a69aaeddccd0f2f531f",
+    "masterdata": {},
+    "name": "kony.ui.SegmentedUI2",
+    "needpageindicator": true,
+    "pageoffdotimage": "pageoffdot.png",
+    "pageondotimage": "pageondot.png",
+    "paginationconfig": {
+        "position": "bottom"
+    },
+    "parent": "flxSeg",
+    "pf": "frmManageMyBiller",
+    "retaincontentalignment": false,
+    "retainflexpositionproperties": false,
+    "retainselection": false,
+    "rowTemplateId": "d77cab63abce4afdb68ec8e06fb4a441",
+    "rowcounter": 9,
+    "rowfocusskin": "sa55e95874334408bde18ebdcef06c52",
+    "rowskin": "sff996f9796c4e36825bb9067ac016ca",
+    "rowtemplate": "Flex0fb5b003a3b3c4b",
+    "screenlevelwidget": false,
+    "seccounter": 0,
+    "sectionheaderskin": "s647f91354a042da954be1acffc1f413",
+    "selectedRows": null,
+    "selectedState": false,
+    "selectedindex": null,
+    "selectedindices": null,
+    "selecteditems": null,
+    "selectedsectionindex": 0,
+    "selectionbehavior": "default",
+    "separatorcolor": "aaaaaa00",
+    "separatorrequired": true,
+    "separatorthickness": 1,
+    "showscrollbars": false,
+    "viewtype": "tableview",
+    "vizProps": {},
+    "wType": "Segment",
+    "widgetalignment": 5,
+    "widgetdatamap": {
+        "flxManageBillr": "flxManageBillr",
+        "flxSegImage": "flxSegImage",
+        "imgSegImage": "imgSegImage",
+        "lblBillerHame": "lblBillerHame",
+        "lblBillerNames": "lblBillerNames"
+    }
+}

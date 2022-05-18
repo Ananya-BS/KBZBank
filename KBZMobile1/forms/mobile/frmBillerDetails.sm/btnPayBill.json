@@ -1,0 +1,54 @@
+{
+    "@class": "com.kony.gen.viz.model.component.KVizButton",
+    "DNDConfig": null,
+    "_height_": {
+        "type": "string",
+        "value": "30%"
+    },
+    "_left_": {
+        "type": "string",
+        "value": "10%"
+    },
+    "_margin_": [
+        6,
+        6,
+        6,
+        6
+    ],
+    "_padding_": [
+        0,
+        0,
+        0,
+        0
+    ],
+    "_skin_": "s23aeccaec8d452d8ae4aaaaaa849521",
+    "_text_": "Pay Bill",
+    "_top_": {
+        "type": "string",
+        "value": "20.00%"
+    },
+    "_width_": {
+        "type": "string",
+        "value": "90.74%"
+    },
+    "canUpdateUI": true,
+    "centerx": {
+        "type": "string",
+        "value": "50.01%"
+    },
+    "containerweight": 100,
+    "contentalignment": 5,
+    "displaytext": true,
+    "focusskin": "s15d6dc6a22c4e3f803ea4f471a2cc13",
+    "id": "btnPayBill",
+    "info": null,
+    "iscustomlayout": false,
+    "isvisible": true,
+    "kuid": "e4d4108d67454339842c0d22e9225ee5",
+    "name": "kony.ui.Button",
+    "parent": "flxFooterBtns",
+    "pf": "frmBillerDetails",
+    "retaincontentalignment": false,
+    "retainflexpositionproperties": false,
+    "wType": "Button"
+}

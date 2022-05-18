@@ -1,0 +1,15 @@
+{
+    "keys": [],
+    "locales": {
+        "en_IN": {
+            "i18nStrings": {},
+            "isCustomLocale": false,
+            "isSelected": true,
+            "layoutConfig": {
+                "mirrorContentAlignment": false,
+                "mirrorFlexPositionProperties": false,
+                "mirrorFlowHorizontalAlignment": false
+            }
+        }
+    }
+}

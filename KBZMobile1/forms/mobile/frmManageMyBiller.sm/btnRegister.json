@@ -1,0 +1,61 @@
+{
+    "@class": "com.kony.gen.viz.model.component.KVizButton",
+    "DNDConfig": null,
+    "_height_": {
+        "type": "string",
+        "value": "40%"
+    },
+    "_left_": {
+        "type": "string",
+        "value": "5%"
+    },
+    "_margin_": [
+        6,
+        6,
+        6,
+        6
+    ],
+    "_padding_": [
+        0,
+        0,
+        0,
+        0
+    ],
+    "_skin_": "s23aeccaec8d452d8ae4aaaaaa849521",
+    "_text_": "Register New Biller",
+    "_top_": {
+        "type": "string",
+        "value": "0"
+    },
+    "_width_": {
+        "type": "string",
+        "value": "85%"
+    },
+    "canUpdateUI": true,
+    "centerx": {
+        "type": "string",
+        "value": "50%"
+    },
+    "centery": {
+        "type": "string",
+        "value": "60%"
+    },
+    "containerweight": 100,
+    "contentalignment": 5,
+    "disabledSkins": {
+        "focusSkin": "s15d6dc6a22c4e3f803ea4f471a2cc13"
+    },
+    "displaytext": true,
+    "id": "btnRegister",
+    "ide_onTouchEnd": "AS_Button_b335086c77aa400fbfcd0bca6e107a89",
+    "info": null,
+    "iscustomlayout": false,
+    "isvisible": true,
+    "kuid": "ge943b86998a430aa9aff4ea4140b543",
+    "name": "kony.ui.Button",
+    "parent": "flxFooter",
+    "pf": "frmManageMyBiller",
+    "retaincontentalignment": false,
+    "retainflexpositionproperties": false,
+    "wType": "Button"
+}

@@ -1,0 +1,28 @@
+{
+    "AS_Form_e3964e0ab9bf4d488c2c4615b3ae427b": {
+        "id": "AS_Form_e3964e0ab9bf4d488c2c4615b3ae427b",
+        "type": "ACTION_SEQUENCE",
+        "params": [{
+            "datatype": "collection",
+            "name": "eventobject"
+        }],
+        "contextObj": {
+            "name": "frmDashBoard",
+            "type": "forms",
+            "platform": "",
+            "KUID": "abfe23e6c951435b8eb4a14b6ca7ecb3"
+        },
+        "language": "js",
+        "actions": [{
+            "id": "INVOKE_FUNCTION__hfe7461ed6fe4db7874eb568523162d8",
+            "type": "INVOKE_FUNCTION",
+            "sequenceKUID": "preshow",
+            "display": "preshow",
+            "inputparams": [],
+            "parentId": null,
+            "callbackType": null,
+            "disabled": null,
+            "source": "controller"
+        }]
+    }
+}

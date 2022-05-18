@@ -1,0 +1,34 @@
+{
+    "AS_Button_b335086c77aa400fbfcd0bca6e107a89": {
+        "id": "AS_Button_b335086c77aa400fbfcd0bca6e107a89",
+        "type": "ACTION_SEQUENCE",
+        "params": [{
+            "datatype": "collection",
+            "name": "eventobject"
+        }, {
+            "datatype": "string",
+            "name": "x"
+        }, {
+            "datatype": "string",
+            "name": "y"
+        }],
+        "contextObj": {
+            "name": "frmManageMyBiller",
+            "type": "forms",
+            "platform": "",
+            "KUID": "if12282a005e47c5817e085d96be0b45"
+        },
+        "language": "js",
+        "actions": [{
+            "id": "NAVIGATE_TO_FORM__bf5f09d2c7b14eea8843e7ad46bde5e7",
+            "type": "NAVIGATE_TO_FORM",
+            "formId": "frmBillerDetails",
+            "formKUID": "i00cf0bc20154f70aa4ba83fde96704f",
+            "mappings": {},
+            "mappingsOrder": [],
+            "enableMappingEditor": true,
+            "package": "",
+            "isCustomInput": false
+        }]
+    }
+}

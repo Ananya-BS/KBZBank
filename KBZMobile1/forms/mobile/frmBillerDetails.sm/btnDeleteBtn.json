@@ -1,0 +1,56 @@
+{
+    "@class": "com.kony.gen.viz.model.component.KVizButton",
+    "DNDConfig": null,
+    "_height_": {
+        "type": "string",
+        "value": "30%"
+    },
+    "_left_": {
+        "type": "string",
+        "value": "5%"
+    },
+    "_margin_": [
+        6,
+        6,
+        6,
+        6
+    ],
+    "_padding_": [
+        0,
+        0,
+        0,
+        0
+    ],
+    "_skin_": "s23aeccaec8d452d8ae4aaaaaa849521",
+    "_text_": "Delete Biller",
+    "_top_": {
+        "type": "string",
+        "value": "10.00%"
+    },
+    "_width_": {
+        "type": "string",
+        "value": "90.74%"
+    },
+    "canUpdateUI": true,
+    "centerx": {
+        "type": "string",
+        "value": "50.01%"
+    },
+    "containerweight": 100,
+    "contentalignment": 5,
+    "disabledSkins": {
+        "focusSkin": "s15d6dc6a22c4e3f803ea4f471a2cc13"
+    },
+    "displaytext": true,
+    "id": "btnDeleteBtn",
+    "info": null,
+    "iscustomlayout": false,
+    "isvisible": true,
+    "kuid": "ce6029a13116431ca30501b909ddebc3",
+    "name": "kony.ui.Button",
+    "parent": "flxFooterBtns",
+    "pf": "frmBillerDetails",
+    "retaincontentalignment": false,
+    "retainflexpositionproperties": false,
+    "wType": "Button"
+}
